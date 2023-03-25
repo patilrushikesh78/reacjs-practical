@@ -1,0 +1,625 @@
+{
+  "categories": {
+    "TV": {
+      "brands": {
+        "Sony": {
+          "Bravia": {
+            "image": "https://picsum.photos/200/300",
+            "price":100,
+            "rating": 4,
+            "discount": 15
+          }
+        },
+        "ONIDA": {
+          "OXA101": {
+            "image": "https://picsum.photos/200/300",
+            "price": 125,
+            "rating": 3,
+            "discount": 14
+          }
+        },
+        "Videocon": {
+          "4KPLus": {
+            "image": "https://picsum.photos/200/300",
+            "price": 115,
+            "rating": 4.5,
+            "discount": 18
+          }
+        },
+        "LG": {
+          "icon": {
+            "image": "https://picsum.photos/200/300",
+            "price": 100,
+            "rating": 4,
+            "discount": 21
+          }
+        },
+        "Samsung": {
+          "SmartTV": {
+            "image": "https://picsum.photos/200/300",
+            "price": 125,
+            "rating": 5,
+            "discount": 18
+          }
+        },
+        "LLoyd": {
+          "S2230": {
+            "image": "https://picsum.photos/200/300",
+            "price": 95,
+            "rating": 4.5,
+            "discount": 10
+          }
+        },
+        "Dell": {
+          "AD355": {
+            "image": "https://picsum.photos/200/300",
+            "price": 150,
+            "rating": 5,
+            "discount": 17
+          }
+        },
+        "TCL": {
+          "Xconnect": {
+            "image": "https://picsum.photos/200/300",
+            "price": 160,
+            "rating": 4,
+            "discount": 13
+          }
+        },
+        "Croma": {
+          "HD101": {
+            "image": "https://picsum.photos/200/300",
+            "price": 120,
+            "rating": 4,
+            "discount": 22
+          }
+        },
+        "Apple": {
+          "Neo": {
+            "image": "https://picsum.photos/200/300",
+            "price": 165,
+            "rating": 5,
+            "discount": 23
+          }
+        },
+        "MI": {
+          "XSD120": {
+            "image": "https://picsum.photos/200/300",
+            "price": 100,
+            "rating": 4,
+            "discount": 18
+          }
+        },
+        "OnePLus": {
+          "101Plus": {
+            "image": "https://picsum.photos/200/300",
+            "price": 150,
+            "rating": 2,
+            "discount": 19
+          }
+        },
+        "Xiomi": {
+          "Xperia": {
+            "image": "https://picsum.photos/200/300",
+            "price": 160,
+            "rating": 4,
+            "discount": 10
+          }
+        },
+        "Panasonic": {
+          "Digital101": {
+            "image": "https://picsum.photos/200/300",
+            "price": 160,
+            "rating": 3,
+            "discount": 18
+          }
+        },
+        "Toshiba": {
+          "SmartWay": {
+            "image": "https://picsum.photos/200/300",
+            "price": 155,
+            "rating": 2,
+            "discount": 10
+          }
+        }
+      }
+    },
+
+    "Mobiles": {
+      "brands": {
+        "Apple": {
+          "14 Max Pro": {
+            "image": "https://picsum.photos/200/300",
+            "price": 120,
+            "rating": 5,
+            "discount": 5
+          }
+        },
+        "Motorola": {
+          "Edge 30": {
+            "image": "https://picsum.photos/200/300",
+            "price": 125,
+            "rating": 3.5,
+            "discount": 10
+          }
+        },
+        "Samsung": {
+          "S30": {
+            "image": "https://picsum.photos/200/300",
+            "price": 175,
+            "rating": 4.5,
+            "discount": 10
+          }
+        },
+        "Nokia": {
+          "M11": {
+            "image": "https://picsum.photos/200/300",
+            "price": 165,
+            "rating": 4,
+            "discount": 15
+          }
+        },
+        "Xiomi": {
+          "MaxPro": {
+            "image": "https://picsum.photos/200/300",
+            "price": 155,
+            "rating": 3.5,
+            "discount": 15
+          }
+        },
+        "MI": {
+          "Note": {
+            "image": "https://picsum.photos/200/300",
+            "price": 135,
+            "rating": 4.5,
+            "discount": 18
+          }
+        },
+        "OnePlus": {
+          "10T": {
+            "image": "https://picsum.photos/200/300",
+            "price": 140,
+            "rating": 4,
+            "discount": 20
+          }
+        },
+        "LG": {
+          "Fusion": {
+            "image": "https://picsum.photos/200/300",
+            "price": 135,
+            "rating": 5,
+            "discount": 5
+          }
+        },
+        "Panasonic": {
+          "Sound Ultra": {
+            "image": "https://picsum.photos/200/300",
+            "price": 150,
+            "rating": 4,
+            "discount": 10
+          }
+        },
+        "Oppo": {
+          "Wide Ultra": {
+            "image": "https://picsum.photos/200/300",
+            "price": 130,
+            "rating": 3,
+            "discount": 20
+          }
+        },
+        "Vivo": {
+          "Reno": {
+            "image": "https://picsum.photos/200/300",
+            "price": 140,
+            "rating": 3,
+            "discount": 12
+          }
+        },
+        "Huawei": {
+          "Xconnect": {
+            "image": "https://picsum.photos/200/300",
+            "price": 135,
+            "rating": 4,
+            "discount": 12
+          }
+        },
+        "Realme": {
+          "Narzo": {
+            "image": "https://picsum.photos/200/300",
+            "price": 150,
+            "rating": 4.5,
+            "discount": 5
+          }
+        },
+        "Sony": {
+          "C12": {
+            "image": "https://picsum.photos/200/300",
+            "price": 175,
+            "rating": 4,
+            "discount": 5
+          }
+        },
+        "Micromax": {
+          "Reger": {
+            "image": "https://picsum.photos/200/300",
+            "price": 155,
+            "rating": 3.5,
+            "discount": 10
+          }
+        }
+      }
+    },
+    "Watches": {
+      "brands": {
+        "Rolex": {
+          "R11": {
+            "image": "https://picsum.photos/200/300",
+            "price": 175,
+            "rating": 4.5,
+            "discount": 5
+          }
+        },
+        "Omega": {
+          "OSS3": {
+            "image": "https://picsum.photos/200/300",
+            "price": 180,
+            "rating": 3.5,
+            "discount": 15
+          }
+        },
+        "Pattek Philippe": {
+          "PP125": {
+            "image": "https://picsum.photos/200/300",
+            "price": 175,
+            "rating": 4,
+            "discount": 20
+          }
+        },
+        "Seiko": {
+          "Round360": {
+            "image": "https://picsum.photos/200/300",
+            "price": 145,
+            "rating": 4,
+            "discount": 5
+          }
+        },
+        "Tag Heur": {
+          "TH60": {
+            "image": "https://picsum.photos/200/300",
+            "price": 150,
+            "rating": 4.5,
+            "discount": 15
+          }
+        },
+        "Timex": {
+          "T30": {
+            "image": "https://picsum.photos/200/300",
+            "price": 140,
+            "rating": 4.5,
+            "discount": 18
+          }
+        },
+        "CITIZEN": {
+          "12R": {
+            "image": "https://picsum.photos/200/300",
+            "price": 130,
+            "rating": 4,
+            "discount": 20
+          }
+        },
+        "Longines": {
+          "MT300": {
+            "image": "https://picsum.photos/200/300",
+            "price": 135,
+            "rating": 4,
+            "discount": 5
+          }
+        },
+        "Blancpain": {
+          "BR90": {
+            "image": "https://picsum.photos/200/300",
+            "price": 125,
+            "rating": 4,
+            "discount": 10
+          }
+        },
+        "Tissot": {
+          "TS36": {
+            "image": "https://picsum.photos/200/300",
+            "price": 130,
+            "rating": 3.5,
+            "discount": 20
+          }
+        },
+        "Zenith": {
+          "ZT32": {
+            "image": "https://picsum.photos/200/300",
+            "price": 140,
+            "rating": 3.5,
+            "discount": 12
+          }
+        },
+        "Bvgari": {
+          "BG35": {
+            "image": "https://picsum.photos/200/300",
+            "price": 135,
+            "rating": 4.5,
+            "discount": 12
+          }
+        },
+        "Fossil": {
+          "FL90": {
+            "image": "https://picsum.photos/200/300",
+            "price": 180,
+            "rating": 4.5,
+            "discount": 5
+          }
+        },
+        "Vacheron Constantin": {
+          "VC60": {
+            "image": "https://picsum.photos/200/300",
+            "price": 160,
+            "rating": 4,
+            "discount": 15
+          }
+        },
+        "Panerai": {
+          "PRS30": {
+            "image": "https://picsum.photos/200/300",
+            "price": 155,
+            "rating": 4,
+            "discount": 5
+          }
+        }
+      }
+    },
+    "Shoes": {
+      "brands": {
+        "Adidas": {
+          "AD14": {
+            "image": "https://picsum.photos/200/300",
+            "price": 115,
+            "rating": 4.5,
+            "discount": 5
+          }
+        },
+        "New Balance": {
+          "NB1": {
+            "image": "https://picsum.photos/200/300",
+            "price": 125,
+            "rating": 4,
+            "discount": 10
+          }
+        },
+        "Converse": {
+          "CV23": {
+            "image": "https://picsum.photos/200/300",
+            "price": 150,
+            "rating": 4,
+            "discount": 10
+          }
+        },
+        "Vans": {
+          "V25": {
+            "image": "https://picsum.photos/200/300",
+            "price": 165,
+            "rating": 4,
+            "discount": 20
+          }
+        },
+        "Reebok": {
+          "RB6": {
+            "image": "https://picsum.photos/200/300",
+            "price": 155,
+            "rating": 4.5,
+            "discount": 10
+          }
+        },
+        "Puma": {
+          "PM20": {
+            "image": "https://picsum.photos/200/300",
+            "price": 135,
+            "rating": 3.5,
+            "discount": 15
+          }
+        },
+        "Saucony": {
+          "SY8": {
+            "image": "https://picsum.photos/200/300",
+            "price": 120,
+            "rating": 4,
+            "discount": 20
+          }
+        },
+        "Nike": {
+          "NKsport": {
+            "image": "https://picsum.photos/200/300",
+            "price": 135,
+            "rating": 4,
+            "discount": 5
+          }
+        },
+        "Asic": {
+          "Quantum": {
+            "image": "https://picsum.photos/200/300",
+            "price": 150,
+            "rating": 4.5,
+            "discount": 5
+          }
+        },
+        "Hoka": {
+          "Torrent": {
+            "image": "https://picsum.photos/200/300",
+            "price": 125,
+            "rating": 3,
+            "discount": 20
+          }
+        },
+        "On Running": {
+          "Cloud": {
+            "image": "https://picsum.photos/200/300",
+            "price": 135,
+            "rating": 3,
+            "discount": 13
+          }
+        },
+        "Salomon": {
+          "ACS pro": {
+            "image": "https://picsum.photos/200/300",
+            "price": 125,
+            "rating": 4,
+            "discount": 12
+          }
+        },
+        "Jordan Brand": {
+          "Retro": {
+            "image": "https://picsum.photos/200/300",
+            "price": 160,
+            "rating": 4.5,
+            "discount": 5
+          }
+        },
+        "Celine": {
+          "CT-05": {
+            "image": "https://picsum.photos/200/300",
+            "price": 165,
+            "rating": 4,
+            "discount": 5
+          }
+        },
+        "Gucci": {
+          "Ace": {
+            "image": "https://picsum.photos/200/300",
+            "price": 155,
+            "rating": 4.5,
+            "discount": 10
+          }
+        }
+      }
+    },
+    "Furniture": {
+      "brands": {
+        "Sofas": {
+          "LT60": {
+            "image": "https://picsum.photos/200/300",
+            "price": 135,
+            "rating": 4,
+            "discount": 5
+          }
+        },
+        "Bed": {
+          "Vanilla": {
+            "image": "https://picsum.photos/200/300",
+            "price": 125,
+            "rating": 4.5,
+            "discount": 10
+          }
+        },
+        "Mattreses": {
+          "Comfort": {
+            "image": "https://picsum.photos/200/300",
+            "price": 175,
+            "rating": 4,
+            "discount": 15
+          }
+        },
+        "Study Table": {
+          "ST6": {
+            "image": "https://picsum.photos/200/300",
+            "price": 150,
+            "rating": 4,
+            "discount": 15
+          }
+        },
+        "Office Chair": {
+          "OC8": {
+            "image": "https://picsum.photos/200/300",
+            "price": 165,
+            "rating": 3.5,
+            "discount": 10
+          }
+        },
+        "Dinning Set": {
+          "DS6": {
+            "image": "https://picsum.photos/200/300",
+            "price": 145,
+            "rating": 4,
+            "discount": 18
+          }
+        },
+        "Coffe Table": {
+          "CT3": {
+            "image": "https://picsum.photos/200/300",
+            "price": 125,
+            "rating": 4,
+            "discount": 20
+          }
+        },
+        "Bean Bags": {
+          "BB65": {
+            "image": "https://picsum.photos/200/300",
+            "price": 180,
+            "rating": 4.5,
+            "discount": 5
+          }
+        },
+        "TV Units": {
+          "TU45": {
+            "image": "https://picsum.photos/200/300",
+            "price": 150,
+            "rating": 4.5,
+            "discount": 10
+          }
+        },
+        "BookShelves": {
+          "BS9": {
+            "image": "https://picsum.photos/200/300",
+            "price": 125,
+            "rating": 3,
+            "discount": 20
+          }
+        },
+        "Recliner": {
+          "RC90": {
+            "image": "https://picsum.photos/200/300",
+            "price": 125,
+            "rating": 3,
+            "discount": 12
+          }
+        },
+        "Swing": {
+          "SL10": {
+            "image": "https://picsum.photos/200/300",
+            "price": 120,
+            "rating": 4,
+            "discount": 10
+          }
+        },
+        "Home Temple": {
+          "HT15": {
+            "image": "https://picsum.photos/200/300",
+            "price": 150,
+            "rating": 4.5,
+            "discount": 5
+          }
+        },
+        "Portable Pool": {
+          "PP25": {
+            "image": "https://picsum.photos/200/300",
+            "price": 155,
+            "rating": 4,
+            "discount": 10
+          }
+        },
+        "Aquarium Tank": {
+          "AT30": {
+            "image": "https://picsum.photos/200/300",
+            "price": 160,
+            "rating": 4.5,
+            "discount": 10
+          }
+        }
+      }
+    }
+  }
+}

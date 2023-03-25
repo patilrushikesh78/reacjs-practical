@@ -1,0 +1,31 @@
+/* input {
+  margin: 20px;
+  padding: 10px;
+  width: 300px;
+  border-radius: 5px;
+  border: 1px solid gray;
+} */
+
+.Styled {
+  font-family: sans-serif;
+  text-align: center;
+  width: 70vw;
+  margin: 0 auto;
+  flex-direction: column;
+}
+
+.modal {
+  position: absolute;
+  z-index: 1;
+  /* padding: 100px; */
+  /* left: 0;
+  top: 0; */
+  width: 50%;
+  height: 50%;
+  /* top: 50%;
+  left: 50%; */
+  transform: translate(-50%, -50%);
+  overflow: auto;
+  background-color: rgb(141, 135, 135);
+  background-color: rgba(141, 135, 135);
+}

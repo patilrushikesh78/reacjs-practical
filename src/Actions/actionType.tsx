@@ -1,0 +1,14 @@
+export const TAB_CHANGE = "CATEGORY_CHANGE";
+export const TAB_ADD = "CATEGORY_ADD";
+export const TAB_DELETE = "TAB_DELETE";
+export const LOAD_PRODUCTS = "LOAD_PRODUCTS";
+export const LOAD_CATEGORIES = "LOAD_CATEGORIES";
+export const LOAD_BRANDS = "LOAD_BRANDS";
+export default {
+  TAB_CHANGE,
+  TAB_ADD,
+  LOAD_PRODUCTS,
+  LOAD_CATEGORIES,
+  LOAD_BRANDS,
+  TAB_DELETE,
+};
