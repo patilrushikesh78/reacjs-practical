@@ -14,3 +14,14 @@
 - Load JSON file data.
 - Dynamic Tab Add.
 - Filter wise product listing.
+
+# Default screen with product listing
+![ScreenShot](https://raw.github.com/{username}/{repository}/{branch}/{path})
+# Tab Add/Update/Delete Modal
+![ScreenShot](https://raw.github.com/{username}/{repository}/{branch}/{path})
+# Product filter by search
+![ScreenShot](https://raw.github.com/{username}/{repository}/{branch}/{path})
+# Product filter by category selection
+![ScreenShot](https://raw.github.com/{username}/{repository}/{branch}/{path})
+# Product filter by brand selection
+![ScreenShot](https://raw.github.com/{username}/{repository}/{branch}/{path})
