@@ -16,12 +16,12 @@
 - Filter wise product listing.
 
 # Default screen with product listing
-![ScreenShot](https://raw.github.com/{username}/{repository}/{branch}/{path})
+![ScreenShot](https://raw.github.com/patilrushikesh78/reacjs-practical/master/screensort/1.png)
 # Tab Add/Update/Delete Modal
-![ScreenShot](https://raw.github.com/{username}/{repository}/{branch}/{path})
+![ScreenShot](https://raw.github.com/patilrushikesh78/reacjs-practical/master/screensort/2.png)
 # Product filter by search
-![ScreenShot](https://raw.github.com/{username}/{repository}/{branch}/{path})
+![ScreenShot](https://raw.github.com/patilrushikesh78/reacjs-practical/master/screensort/3.png)
 # Product filter by category selection
-![ScreenShot](https://raw.github.com/{username}/{repository}/{branch}/{path})
+![ScreenShot](https://raw.github.com/patilrushikesh78/reacjs-practical/master/screensort/4.png)
 # Product filter by brand selection
-![ScreenShot](https://raw.github.com/{username}/{repository}/{branch}/{path})
+![ScreenShot](https://raw.github.com/patilrushikesh78/reacjs-practical/master/screensort/5.png)
