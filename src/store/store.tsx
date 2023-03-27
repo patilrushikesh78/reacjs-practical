@@ -7,6 +7,7 @@ import storage from "redux-persist/lib/storage";
 import { persistStore, persistReducer } from "redux-persist";
 import tab from "../reducers/tab";
 import product from "../reducers/product";
+
 const rootReducer = combineReducers({
   tabs: tab,
   products: product,
@@ -21,15 +22,6 @@ const pReducer = persistReducer(persistConfig, rootReducer);
 const store = createStore(pReducer, composeWithDevTools(applyMiddleware(thunk)));
 const persistor = persistStore(store);
 export { persistor, store };
-
-// const persistedReducer = persistReducer(persistConfig, rootReducer);
-
-// const store = createStore(
-//   persistedReducer,
-//   composeWithDevTools(applyMiddleware(thunk))
-// );
-
-// let persistor = persistStore(store);
 
 declare global {
   type RootState = ReturnType<typeof store.getState>;

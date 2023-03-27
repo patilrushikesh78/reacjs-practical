@@ -59,8 +59,6 @@ const Filter = () => {
   const [searchTerm, setSearchTerm] = useState<string>(tab.serach);
   const [categoryFilter, setCategoryFilter] = useState<string>(tab.category);
   const [brandFilter, setBrandFilter] = useState<string>(tab.brand);
-  // const [minPriceDefault, setMinPriceDefault] = useState<number>(0);
-  // const [maxPriceDefault, setMaxPriceDefault] = useState<number>(200);
   const [minPrice, setMinPrice] = useState<number>(0);
   const [maxPrice, setMaxPrice] = useState<number>(200);
   const [minDiscount, setMinDiscount] = useState<number>(tab.minDiscount);

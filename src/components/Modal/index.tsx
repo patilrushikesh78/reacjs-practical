@@ -76,19 +76,19 @@ export default function AddTab(props: Props) {
       alert("Please enter category name.");
       return;
     }
-    let categories: ITab[] = tabs;
-    if (categories.length == 5) {
+    let tempTabs: ITab[] = tabs;
+    if (tempTabs.length == 5) {
       alert("You can only add 5 tabs.");
       return;
     }
 
-    let flag = categories.some((item) => {
+    let flag = tempTabs.some((item) => {
       return item.name.toLowerCase() == name.toLowerCase();
     });
     if (flag) {
-      alert("Category already exist.");
+      alert("Tab already exist.");
     } else {
-      let id = categories[categories.length - 1].id;
+      let id = tempTabs[tempTabs.length - 1].id;
       let newCat: ITab = {
         id: id + 1,
         name,
@@ -100,15 +100,15 @@ export default function AddTab(props: Props) {
         minDiscount: 0,
         maxDiscount: 100,
       };
-      categories.push(newCat);
-      dispatch(tabAction.addTab(categories));
+      tempTabs.push(newCat);
+      dispatch(tabAction.addTab(tempTabs));
       props.onClose();
     }
   };
 
   const editCategory = () => {
     if (editName == "") {
-      alert("Please enter category name.");
+      alert("Please enter Tab name.");
       return;
     }
     let categories: ITab[] = tabs;

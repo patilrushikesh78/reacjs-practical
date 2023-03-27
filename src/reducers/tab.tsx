@@ -44,7 +44,7 @@ export default (state: ITabState = initialState, action: Action) => {
     case actionType.TAB_CHANGE:
       return { ...state, Tab: action.payload };
     case actionType.TAB_ADD:
-      return { ...state, Categories: action.payload };
+      return { ...state, Tabs: action.payload };
     case actionType.TAB_DELETE:
       return { ...state, Tabs: action.payload.tabs, Tab: action.payload.tab };
     default:
